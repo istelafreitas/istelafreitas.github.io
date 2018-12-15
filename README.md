@@ -1,2 +1,2 @@
-# http://istelafreitas.github.io
+# http://istelafreita
 meu primeiro site
